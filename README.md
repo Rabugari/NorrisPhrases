@@ -3,13 +3,12 @@ Chuck Norris App é uma aplicação que consume uma API do [ChuckNorris.io](http
 
 ### Tecnologias
  Uma aplicação Android Nativa em Kotlin, utilizando:
- | Nome | Função | Link |
-| ------ | ------ |  ------ |
-| **Dagger2**  | para a injeção de dependência entre os elementos | [Link](https://github.com/google/dagger) |
-| **RXJava:** | para utilizar chamadas reativas as APIs | [Link](https://github.com/ReactiveX/RxAndroid) |
-| **Retrofit:** | para facilitar as chamadas as APIs | [Link](hhttps://square.github.io/retrofit/) |
-| **Picasso:** | para consumo de imagens em URL | [Link](https://github.com/square/picasso) |
-| **Glide:** | para animação | [Link](https://github.com/bumptech/glide) |
+ 
+ * [Dagger2](https://github.com/google/dagger) - para a injeção de dependência entre os elementos
+ * [RXJava](https://github.com/ReactiveX/RxAndroid) - para utilizar chamadas reativas as APIs
+ * [Retrofit](hhttps://square.github.io/retrofit/) - para facilitar as chamadas as APIs
+ * [Picasso](https://github.com/square/picasso) -  para consumo de imagens em URL
+ * [Glide](https://github.com/bumptech/glide) - para animação
 
 ### Instalação
 Para compilação do projeto
