@@ -38,7 +38,7 @@ open class CategoryListFragment : Fragment(), CategoryContract.View, CategoryLis
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        rootView = inflater!!.inflate(R.layout.frame_list_category, container, false)
+        rootView = inflater.inflate(R.layout.frame_list_category, container, false)
         loadingChuckLayout = rootView.lytCategoryLoading
         Glide.with(this).load(R.drawable.chuck_norris_punch).into(loadingChuckLayout.imgChuckLoader)
         return rootView

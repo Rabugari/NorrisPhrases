@@ -31,7 +31,7 @@ class PhrasePresenter: PhraseContract.Presenter {
                 view.showProgress(true)
                 view.loadSuccess(phrase)
                 view.showProgress(false)
-            }, { error->
+            }, { _->
                 val errorMessage = "Erro ao carregar a frase"
                 view.showProgress(false)
                 view.showErrorMessage(errorMessage)

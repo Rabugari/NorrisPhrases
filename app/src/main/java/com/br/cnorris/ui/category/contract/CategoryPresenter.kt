@@ -30,7 +30,7 @@ class CategoryPresenter: CategoryContract.Presenter {
                  view.showProgress(true)
                  view.loadDataSuccess(list)
                  view.showProgress(false)
-             }, { error ->
+             }, { _ ->
                     val errorMessage = "Erro ao carregar as categorias"
                     view.showProgress(false)
                     view.showErrorMessage(errorMessage)
