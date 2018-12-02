@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shortMargin">8dp</dimen>
+    <dimen name="shortPadding">8dp</dimen>
+
+    <dimen name="bigMargin">20dp</dimen>
+    <dimen name="bigPadding">20dp</dimen>
+
+    <dimen name="textSizeCategory">16dp</dimen>
+    <dimen name="textSizeMedium">20dp</dimen>
+    <dimen name="textSizeBig">22dp</dimen>
+    <dimen name="textSizeLoading">18dp</dimen>
+
+    <dimen name="imgAvatarSize">45dp</dimen>
+    <dimen name="imgChuckLoading">200dp</dimen>
+
+    <dimen name="cardElevation">12dp</dimen>
+    <dimen name="cardViewCornerRadius">5dp</dimen>
+    <dimen name="categorySize">120dp</dimen>
+
+</resources>

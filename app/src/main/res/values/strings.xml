@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Norris Phrases</string>
+
+    <!--CATEGORIAS-->
+    <string name="explicit">Explicit</string>
+    <string name="not_found_category">Não foi possível encontrar a categoria</string>
+
+    <!--FRASES-->
+    <string name="categoria_chosen">Categoria Escolhida</string>
+    <string name="visit_site">Visite a página</string>
+    <string name="example_phrase_text">Texto de exemplo para uma frase alinhar centralizado</string>
+    <string name="c_norris">CNorris</string>
+    <string name="loading">Carregando</string>
+
+</resources>

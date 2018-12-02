@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:font">@font/play_fair</item>
+        <item name="android:fontFamily">@font/play_fair</item>
+
+        <!--<item name="android:font">@font/cour</item>-->
+        <!--<item name="android:fontFamily">@font/couri</item>-->
+    </style>
+</resources>
